@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Jericoin 
+Comment=Jericoin P2P Cryptocurrency
+Comment[fr]=Jericoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Jericoin, eşten eşe kriptografik sanal para birimi
+Exec=jericoin-qt %u
+Terminal=false
+Type=Application
+Icon=pivx128
+MimeType=x-scheme-handler/jericoin;
+Categories=Office;Finance;
+StartupWMClass=jericoin-qt
